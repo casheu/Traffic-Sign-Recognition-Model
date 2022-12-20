@@ -1,0 +1,1 @@
+frontend: https://huggingface.co/spaces/casheu/FrontendGermanTrafficSignRecognition
